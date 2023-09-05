@@ -13,5 +13,5 @@ yarn dev
 
 ## 公众号
 
-![](./public/shuyi-search.png)
+![](./public/shuyi-search.jpg)
 
